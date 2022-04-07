@@ -1,3 +1,10 @@
+#site live link:
+<a href="https://rezaun.github.io/react-fake-store/" target="_blank">Live</a>
+# On Netlify
+<a href="https://react-fake-store-kabir.netlify.app/" target="_blank">Live</a>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
